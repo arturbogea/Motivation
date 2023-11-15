@@ -1,6 +1,6 @@
 # Daily Motivation
 Aplicativo teste com mensagem de motivação.
-É um aplicativo testa que fiz, para aperfeiçoar a naveção de telas e aprender mais sobre ciclo de vida.
+É um aplicativo testa que fiz, para aperfeiçoar a navegação de telas e aprender mais sobre ciclo de vida.
 Ele trás mensagens conforme o seu animo escolhido ou pode trazer aleatoriamente.
 Pode alterar o nome do usuário, sempre que precisar. Ele será direcionado para o outra activity e assim que colocarem o seu nome, o usuário voltar para a main activity com o seu nome escolhido.
 
